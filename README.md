@@ -10,3 +10,6 @@ Este proyecto corresponde a la primera entrega para aprobar el curso intensivo d
 ### Objetivo: 
 
 Ayudar a los tasadores/as a valuar las propiedades, a través de un modelo de Machine Learning que, dadas ciertas características de la propiedad, prediga su precio de venta.
+
+
+Este proyecto se escribió en un Jupyter Notebook y puede visualizarse haciendo click [aquí](https://nbviewer.jupyter.org/github/juli-amezquita/Analisis-Mercado-Inmobiliario/blob/main/2_Proyecto%20Ana%CC%81lisis%20del%20Mercado%20Inmobiliario.ipynb).
