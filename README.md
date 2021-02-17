@@ -1,4 +1,4 @@
-# Análisis-de-Mercado-Inmobiliario
+# Análisis Mercado Inmobiliario
 EDA Mercado Inmobiliario Argentina
 
 Este proyecto corresponde a la primera entrega para aprobar el curso intensivo de Data Science en Acámica. La finalidad de este proyecto es reproducir los pasos que haría un/a Data Scientist cuando se enfrenta a una problemática real. Por eso, consta de tres secciones:
